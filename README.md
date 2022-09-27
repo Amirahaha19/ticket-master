@@ -25,4 +25,3 @@ yarn add react-responsive-carousel
 3.	Select ticket quantity
 4.	Enter basic billing information and card info
 5.	Review purchase summary before checkout
-END
