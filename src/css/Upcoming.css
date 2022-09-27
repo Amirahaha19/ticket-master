@@ -1,0 +1,30 @@
+.top-picks {
+    padding: 40px;
+}
+
+h2 {
+    width: 100%;
+}
+
+.header-label {
+    font-size: 24px;
+    display: inline;
+    float: left;
+    font-family: 'Averta', helvetica, arial, sans-serif;
+    font-weight: normal;
+}
+
+.shadow {
+    box-shadow: 10px 10px 5px #ccc;
+    -moz-box-shadow: 10px 10px 5px #ccc;
+    -webkit-box-shadow: 10px 10px 5px #ccc;
+    -khtml-box-shadow: 10px 10px 5px #ccc;
+}
+
+.thumbnail img:hover {
+    opacity: 0.5;
+}
+
+.thumbnail {
+    padding: 10px 10px;
+}

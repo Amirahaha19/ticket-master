@@ -1,0 +1,47 @@
+.thumb-photo img {
+    width: 500px;
+    height: auto;
+    float: left;
+    padding: 30px 0 30px 50px
+}
+
+.event-detail {
+    float: left;
+    font-size: 25px;
+    padding: 0 0 0 50px;
+}
+
+.purchase-detail {
+    font-size: 16px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.purchase {
+    background-color: red;
+    width: 20%;
+    height: 40px;
+    color: white;
+    border-radius: 8px;
+    margin: 30px;
+}
+
+table {
+    border: 2px solid grey;
+    width: 400px;
+    height: 30px;
+    margin-top: 30px;
+}
+    
+th {
+    border-bottom: 1px solid black;
+    border: 2px solid lightgrey;
+    width: 150px;
+}
+    
+td {
+    text-align: center;
+    border: 2px solid lightgrey;
+}
+  

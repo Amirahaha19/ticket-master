@@ -1,0 +1,47 @@
+.header {
+    background-image: linear-gradient(to right, #0151a9, #026bdf, #0151a9);
+    color: white;
+    display: table;
+    width: 100%;
+    padding: 10px 0 10px 20px;
+}
+
+.header-container {
+    padding: 30px 30px;
+    text-align: left;
+    font-style: italic;
+    font-weight: bold;
+    width: 100%;
+    display: table-row;
+}
+
+.header-container .logo {
+    padding: 10px 10px;
+    font-size: 25px;
+    text-decoration: unset;
+}
+
+.header-container .logo:hover {
+    color: white;
+}
+
+.header-container .menu {
+    width: 60%;
+    display: table-cell;
+}
+
+.header-container a {
+    padding: 10px 10px;
+    font-size: 15px;
+    color: white;
+    text-decoration: unset;
+}
+
+a:link { text-decoration: none; }
+
+a:visited { text-decoration: none; }
+
+.header-container .list:hover {
+    background-color: #07498A;
+    color: white;
+}

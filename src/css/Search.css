@@ -1,0 +1,11 @@
+input {
+    padding-left: 10px;
+}
+
+.search-bar {
+    padding: 8px;
+    display: table-cell;
+    font-style: none;
+    width: 10%;
+    height: 32px;
+}

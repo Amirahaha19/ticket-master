@@ -1,0 +1,101 @@
+.ticket-header {
+    height: 40px;
+    width: 100%;
+    background-color: white;
+    padding: 8px 10px 5px 50px;
+    font-size: 15px;
+    text-align: left;
+}
+
+.ticket-header-below {
+    height: 50px;
+    width: 100%;
+    text-align: left;
+    padding: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 36px;
+    padding: 10px 10px 30px 50px;
+}
+
+.ticket-detail-header {
+    text-transform: uppercase;
+    padding: 20px 30px;
+    text-align: left;
+    font-weight: bold;
+    color: grey;
+    background-color: white;
+    box-shadow: 10px 10px 5px #ccc;
+    -moz-box-shadow: 10px 10px 5px #ccc;
+    -webkit-box-shadow: 10px 10px 5px #ccc;
+    -khtml-box-shadow: 10px 10px 5px #ccc;
+}
+
+.ticket-detail-header a:hover {
+    background-color: #d6d6d6;
+    color: white;
+}
+
+.ticket-detail-header a {
+    padding: 20px;
+}
+
+.ticket-detail-header button {
+    float: right;
+    width: 20%;
+    height: auto;
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color: #036bdf;
+    color: white;
+    padding: 10px;
+    margin-top: -12px;
+}
+
+.ticket-detail-header .purchase button {
+    background-color: #036bdf;
+}
+
+.ticket-header-below p {
+    font-size: 15px;
+}
+
+.desc {
+    text-transform: none;
+    font-size: 15px;
+    font-weight: normal;
+    padding: 150px 50px 100px 50px;
+    text-align: justify;
+}
+
+hr {
+    margin-right: 50px;
+}
+
+.ticket-photo {
+    height: 50%;
+    width: 100%;
+    background-size: cover;
+    background-color: black;
+    color: white;
+    background-image: linear-gradient(to bottom, white, black);
+}
+
+.ticket-photo-img {
+    height: 50%;
+    width: 100%;
+    color: white;
+    opacity: 0.5;
+}
+
+.ticket-detail {
+    font-family: 'Averta', helvetica, arial, sans-serif;
+    font-size: 24px;
+    padding: 10px 10px 0 10px;
+}
+
+.ticket-name {
+    font-family: 'Averta', helvetica, arial, sans-serif;
+    font-size: 32px;
+    padding: 0 10px 10px 10px;
+}

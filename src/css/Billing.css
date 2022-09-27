@@ -1,0 +1,51 @@
+.ticket-desc {
+    float: left;
+    text-align: left;
+    width: 40%;
+    margin: 0 0 0 50px;
+}
+
+.ticket-desc p {
+    margin: 0;
+}
+
+.billing-info {
+    width: 100%;
+}
+
+.vertical-line {
+    border-left: 6px solid green;
+    height: 100px;
+}
+
+form {
+    text-align: left;
+}
+
+.form {
+    margin: 0 0 0 50px;
+    width: 15%;
+}
+
+.form p {
+    margin: 10px 0 10px 0;
+}
+
+.form-side {
+    float: left;
+    display: flex;
+}
+
+.form-side input {
+    margin: 10px 10px 10px 0;
+}
+
+.submit-button {
+    margin: 50px;
+    color: white;
+    background-color: #036bdf;
+    width: 445px;
+    height: 40px;
+    border-radius: 8px;
+}
+

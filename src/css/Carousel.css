@@ -1,0 +1,8 @@
+.photo {
+    width: 50%;
+    height: auto;
+}
+
+img:hover {
+    cursor: pointer;
+}

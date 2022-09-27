@@ -1,0 +1,19 @@
+.account {
+    width: 15%;
+    color: white;
+    display: table-cell;
+    padding-left: 10px;
+}
+
+.account:hover {
+    background-color: #07498A;
+    color: white;
+}
+
+.account i {
+    padding: 10px 10px;
+    font-size: 18px;
+    font-style: initial;
+    font-family: 'Averta', helvetica, arial, sans-serif;
+    font-weight: normal;
+}
